@@ -1,2 +1,2 @@
 # my-td-project
-Teach how to clone and runa. repo
+Teach how to clone and run repo
